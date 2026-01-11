@@ -9,4 +9,14 @@ In addition , i would encourage anyone to try and change what i did in the src ,
 ## Table Of Contents 
 
 - [Installation](#installation)
-- [Usage](#usage)
+
+## Installation
+
+This project uses python , its reccomended to use the latest version ( was written in 3.14 ).
+
+```bash
+git clone https://https://github.com/l1nc0lnwtff/TunerX/
+```
+```bash
+cd TunerX
+```
