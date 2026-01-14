@@ -4,7 +4,7 @@ import subprocess
 from colorama import Fore, init
 import os
 init(autoreset=True)
-def updateUser(choice) -> None:
+def updateProject(choice) -> None:
     if choice == "No":
         pass
     else:
